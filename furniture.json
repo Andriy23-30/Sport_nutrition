@@ -1,0 +1,52 @@
+[
+   
+    {
+        "name" : "Whey",
+        "category" : "Протеін",
+      "price" : "370.00",
+        "imgSrc" : "images/protein_1.png"
+    },
+    {
+        "name" : "QuestBar",
+        "category" : "Батончик",
+       "price" : "120.00",
+        "imgSrc" : "images/bar_1.png"
+    },
+    {
+        "name" : "Scitec Naturation",
+        "category" : "Харчова добавка",
+      "price" : "280.00",
+        "imgSrc" : "images/food_1.png"
+    },
+    {
+        "name" : "Ultimate Nutrition ",
+        "category" : "Харчова добавка",
+        "price" : "340.75",
+        "imgSrc" : "images/bca_1.png"
+    },
+    {
+        "name" : "Multipower",
+        "category" : "Гейнер",
+        "price" : "135.00",
+        "imgSrc" : "images/gainer_1.png"
+    },
+    {
+        "name" : "Scitec Naturation",
+        "category" : "Протеін",
+        "price" : "700.50",
+        "imgSrc" : "images/protein_2.png"
+    },
+    {
+        "name" : "Bulk-XT",
+        "category" : "Гейнер",
+        "price" : "160.50",
+        "imgSrc" : "images/gainer_2.png"
+    },
+    {
+        "name" : "Muscletech",
+        "category" : "Гейнер",
+        "price" : "560.00",
+        "imgSrc" : "images/gainer_3.png"
+    }
+   
+]
